@@ -1,9 +1,9 @@
 # Movie-Trailer-Website
 
 The server-side code is written in Python and the data is then served to a web page using
-HTML, CSS.
+HTML and CSS.
 
-## What it is and does
+## What it is this and what it is does
 
 A Python program that produces the HTML for a movie website that displays
 a number of movies. Click on a movie poster to play its trailer.
@@ -22,4 +22,6 @@ Navigate to the project directory and type in the following command:
 python media.py
 ```
 
-Your default browser should launch a new tab displaying the movie trailer website.
+NOW Your default browser should launch a new tab displaying the movie trailer website.
+
+"THANK YOU FOR GIVING ME YOUR PRECIOUS TIME"
